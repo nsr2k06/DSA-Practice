@@ -14,7 +14,7 @@ This repo contains well-structured and commented C++ solutions for essential Dat
 - Queues  
 - Recursion & Backtracking  
 - Trees  
-- (Bonus) Graphs  
+- Graphs  
 
 ---
 
