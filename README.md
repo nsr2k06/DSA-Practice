@@ -7,14 +7,9 @@ This repo contains well-structured and commented C++ solutions for essential Dat
 
 ## 📚 Topics Covered
 
-- Arrays  
-- Strings  
-- Linked Lists  
-- Stacks  
-- Queues  
-- Recursion & Backtracking  
-- Trees  
-- Graphs  
+- Basic Maths
+-   
+
 
 ---
 
