@@ -8,7 +8,8 @@ This repo contains well-structured and commented C++ solutions for essential Dat
 ## 📚 Topics Covered
 
 - Basic Maths
--   
+- Sorting
+- Arrays
 
 
 ---
